@@ -1,2 +1,2 @@
 # Web-Py
-Exercises to improve skills to mimetize screens in Python
+Exercises for improve skills to mimetize screens in Python
